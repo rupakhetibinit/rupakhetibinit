@@ -6,8 +6,9 @@
 - <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
 - <img src='https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white' />
 - <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
+- <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' />
 - <img src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white' />
-- <img src='https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white' />
+
 - 🌏 : I'm in Nepal
 <!--
 **rupakhetibinit/rupakhetibinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
