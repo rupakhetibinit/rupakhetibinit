@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rupakhetibinit&theme=algolia" alt="rupakhetibinit"  />
 
 ## My Stats
-[![rupakhetibinit' GitHub stats](https://github-readme-stats.vercel.app/api?username=rupakhetibinit&theme=dark)](https://github.com/rupakhetibinit/github-readme-stats&?theme=dark)
+[![rupakhetibinit' GitHub stats](https://github-readme-stats.vercel.app/api?username=rupakhetibinit&theme=dark)](https://github.com/rupakhetibinit/rupakhetibinit&?theme=dark)
+
 
 <!-- 
 <div align="center" style="background:#414a50; padding: 25px 0;">
