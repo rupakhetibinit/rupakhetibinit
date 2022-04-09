@@ -1,7 +1,6 @@
 ### About me
 - 🔭 Studying Computer Engineering at Kathmandu Engineering College
 - ⚡ I (try) to do Full Stack JavaScript
-- <img src='https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00' />
 - <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
 - <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
 - <img src='https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white' />
