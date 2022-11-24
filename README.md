@@ -1,9 +1,9 @@
 ### About me
-- ⚡ I (try) to do Full Stack JavaScript
+- ⚡ I (try) to do Full Stack JavaScript/TypeScript
 - <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
 - <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
 - <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' />
-
+- <img src='https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square' />
 <!--
 **rupakhetibinit/rupakhetibinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
