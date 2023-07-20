@@ -5,7 +5,7 @@
 - <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' />
 - <img src='https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square' />
 
-Checkout my portfolio ![here]("portfolio-next-rupakhetibinit.vercel.app")
+Checkout my portfolio ![here]("https://portfolio-next-rupakhetibinit.vercel.app")
 <!--
 **rupakhetibinit/rupakhetibinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
