@@ -1,9 +1,8 @@
 ### About me
-- ⚡ I (try) to do Full Stack JavaScript/TypeScript
-- <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-- <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
-- <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' />
-- <img src='https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square' />
+- ⚡ Currently working on Crafting Interpreters using Rust + Odin
+- Currently learning Odin + OpenGL + Raylib
+- Keeping an 👀 on Zig
+
 
 <!--
 **rupakhetibinit/rupakhetibinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +23,6 @@ Here are some ideas to get you started:
 
 ## My Stats
 [![rupakhetibinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupakhetibinit&theme=dark)](https://github.com/rupakhetibinit/rupakhetibinit&?theme=dark)
-
 
 <!-- 
 <div align="center" style="background:#414a50; padding: 25px 0;">
