@@ -1,8 +1,5 @@
 ### About me
-- ⚡ Currently working on Crafting Interpreters using Rust + Odin
-- Currently learning Odin + OpenGL + Raylib
-- Keeping an 👀 on Zig
-
+- ⚡ Currently learning Graphics/OpenGL with Rust
 
 <!--
 **rupakhetibinit/rupakhetibinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
